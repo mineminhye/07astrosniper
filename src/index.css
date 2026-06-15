@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Jua&family=Noto+Sans+KR:wght@300;400;500;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-jua: "Jua", "Inter", sans-serif;
+  --font-sans: "Noto Sans KR", sans-serif;
+}
+
+/* Custom styles for retro/paper antique look in some modals */
+.antique-paper {
+  background: #f4edd2;
+  color: #2e1a05;
+  border: 4px double #8a6d3b;
+}
+
+.antique-title {
+  color: #5c3a1a;
+  font-family: var(--font-jua);
+}
+
+.star-collect-glow {
+  box-shadow: 0 0 15px rgba(255, 215, 0, 0.4);
+}

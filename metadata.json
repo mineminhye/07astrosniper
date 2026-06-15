@@ -1,0 +1,6 @@
+{
+  "name": "원:더 월드 (Won the World)",
+  "description": "원주각의 성질을 아름다운 스토리와 작도 캔버스로 배우는 기하학 퍼즐 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
